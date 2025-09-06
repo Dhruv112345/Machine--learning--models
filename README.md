@@ -1,3 +1,5 @@
+Here’s a sample README.md you can place in your root directory (MACHINE LEARNING PROJECT/):
+
 # 🧠 Machine Learning Projects Collection
 
 This repository contains a collection of machine learning mini-projects focused on real-world applications such as disease prediction, face recognition, and email spam detection.
@@ -47,3 +49,12 @@ DATASET-https://www.youtube.com/redirect?event=video_description&redir_token=QUF
    ```bash
    git clone https://github.com/YOUR_USERNAME/Machine-learning-projects.git
    cd Machine-learning-projects
+
+2.Create and activate a virtual environment:
+
+python -m venv .venv
+source .venv/bin/activate  # or .venv\Scripts\activate on Windows
+
+3.Install required dependencies:
+
+pip install -r requirements.txt
